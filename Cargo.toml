@@ -5,6 +5,7 @@ edition = "2024"
 description = "CLI to convert bytes(stdin) to a QR code(stdout)."
 license = "Apache-2.0"
 repository = "https://github.com/takanoriyanagitani/rs-bytes2qrcode"
+documentation = "https://docs.rs/crate/rs-bytes2qrcode/latest"
 keywords = ["qrcode", "cli", "terminal"]
 categories = ["command-line-utilities"]
 
